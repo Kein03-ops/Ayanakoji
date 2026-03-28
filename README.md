@@ -1,1 +1,1 @@
-"# Ayanakoji Project" 
+Ayanakoji Project
