@@ -58,7 +58,7 @@ class NotesScreen extends StatelessWidget {
       ),
       body: SafeArea(
 
-        child: 
+        child:
         ListView.builder(
           itemCount: notes.length,
           itemBuilder: (context, index) {
